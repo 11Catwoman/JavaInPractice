@@ -1,9 +1,7 @@
 //------------------------------------------------------
-// Programmer: Carrie Gordon
-// Course: COSC 1336 Section 014/018
-// Semester: Fall 2018
-// Assignment #: 03
-// Due Date: 10/03/2018
+// Programmer: Cathrin Gordon
+// Program written as an assignment for programming fundamentals class
+// October 2018
 //-----------------------------------------------------
 // import the Scanner class to enable
 // reading in from the keyboard
