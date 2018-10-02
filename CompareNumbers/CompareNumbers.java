@@ -81,7 +81,7 @@ public class CompareNumbers {
 		keyboard.close();
 			// Closed Scanner keyboard here*
 	}
-		System.out.println("\nThis program was written by Carrie Gordon");
+		System.out.println("\nThis program was written by Cathrin Gordon");
 		System.out.println("End of program.");
 		
 }		// end method main
